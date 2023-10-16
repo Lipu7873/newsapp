@@ -1,0 +1,19 @@
+.footer{
+    /* height: 30px; */
+    font-size: 20px;
+    padding: 15px 0;
+    text-align: center;
+    background-color: #232323;
+}
+span{
+    color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.iconContainer a{
+    margin-right: 10px;
+    font-size: 27px;
+    color: #fff;
+}
